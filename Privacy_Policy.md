@@ -43,15 +43,20 @@ Our app does not directly use cookies. However, Firebase and other third-party s
 Users can create accounts using their email address and password, or by linking with third-party login providers such as Google (via Firebase Authentication).  
 
 ### Account Deletion
-Users can request account deletion at any time. To do so, visit the following link:  
-[Account Deletion Page](https://yourappdomain.com/account-delete)  
+Users can request account deletion at any time. To do so, send an email to:  
+[emregulkanat@outlook.com](mailto:emregulkanat@outlook.com)  
 
-Upon receiving an account deletion request:  
+**Instructions for Account Deletion:**  
+1. Send an email with the subject line **"Account Deletion Request"**.  
+2. Include your registered email address in the body of the email for verification purposes.  
+
+Upon receiving your account deletion request:  
 - All personal data, including expense details, will be permanently deleted from Firebase.  
 - Any additional data retained for legal or security purposes will be handled as per applicable laws.  
 
 ### Data Deletion Without Account Deletion
-Users can request deletion of specific data (e.g., an individual expense or a recurring expense) without deleting their entire account.  
+Users can request deletion of specific data (e.g., an individual expense or a recurring expense) without deleting their entire account. For this, send an email to [emregulkanat@outlook.com](mailto:emregulkanat@outlook.com) specifying the data you want to delete.  
+
 
 ---
 
